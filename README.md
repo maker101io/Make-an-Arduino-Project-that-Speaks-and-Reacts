@@ -1,5 +1,5 @@
 # Make an Arduino Project that Speaks and Reacts
-Make an Arduino project that speaks / reacts. You can upload lots of audio files and get answers with the many commands you send. In this tutorial we will learn how to play audio files with the Arduino. For this we will use speaker. Also we will use SD card module for keep the audio files. </br></br>
+Make an Arduino project that speaks / reacts. You can upload lots of audio files and get answers with the many commands you send. In this tutorial we will learn how to play audio files with the Arduino. For this we will use speaker. Also we will use SD card module for keep the audio files. (this project so much, interesting and needful) </br></br>
 **Full tutorial:** https://youtu.be/gi9mqIha8n0 </br></br>
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/gi9mqIha8n0/0.jpg)](http://www.youtube.com/watch?v=gi9mqIha8n0)</br></br>
 # Required Hardwares: </br>
